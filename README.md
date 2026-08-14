@@ -30,8 +30,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stack?username=Rishit030&theme=neon" alt="Rishit030 stack section" />
   </picture>
 </p>
-## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Rishit030&theme=neon&mode=light" />
