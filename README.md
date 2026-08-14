@@ -39,7 +39,6 @@ Hi, I'm **Rishit030**.
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Rishit030&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/social?username=Rishit030&theme=neon" alt="Rishit030 social section" />
-    <img src="https://www.gitskins.com/api/section/social?username=RishitGarg&theme=neon" alt="Rishit Garg social section" />
 
     
   </picture>
