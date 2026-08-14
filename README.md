@@ -1,4 +1,3 @@
-## Hi there 👋
 # Rishit030
 
 > Maintainer credibility and contributor clarity.
