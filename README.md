@@ -4,7 +4,7 @@
 
 **Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
-## Header
+
 > Editing this section in the inspector.
 Hi, I'm **Rishit030**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
@@ -37,7 +37,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## Projects
-Highlights repositories as proof of work.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Rishit030&theme=neon&mode=light" />
@@ -45,7 +45,7 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Connect
-Contact and social links will appear here.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Rishit030&theme=neon&mode=light" />
