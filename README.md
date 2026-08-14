@@ -1,11 +1,4 @@
 # Rishit030
-
-> Maintainer credibility and contributor clarity.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-
-> Editing this section in the inspector.
 Hi, I'm **Rishit030**.
 <p align="center">
   <picture>
@@ -13,7 +6,6 @@ Hi, I'm **Rishit030**.
     <img src="https://www.gitskins.com/api/section/hero?username=Rishit030&theme=neon" alt="Rishit030 hero section" />
   </picture>
 </p>
-## About Me
 
 <p align="center">
   <picture>
@@ -21,7 +13,6 @@ Hi, I'm **Rishit030**.
     <img src="https://www.gitskins.com/api/section/about?username=Rishit030&theme=neon" alt="Rishit030 about section" />
   </picture>
 </p>
-## Skills
 
 <p align="center">
   <picture>
@@ -36,7 +27,6 @@ Hi, I'm **Rishit030**.
     <img src="https://www.gitskins.com/api/section/stats?username=Rishit030&theme=neon" alt="Rishit030 stats section" />
   </picture>
 </p>
-## Projects
 
 <p align="center">
   <picture>
@@ -44,7 +34,6 @@ Hi, I'm **Rishit030**.
     <img src="https://www.gitskins.com/api/section/projects?username=Rishit030&theme=neon" alt="Rishit030 projects section" />
   </picture>
 </p>
-## Connect
 
 <p align="center">
   <picture>
