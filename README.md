@@ -6,7 +6,7 @@
 
 
 > Editing this section in the inspector.
-Hi, I'm **Rishit030**. This README is tuned for **open source** with a Neon visual system.
+Hi, I'm **Rishit030**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Rishit030&theme=neon&mode=light" />
@@ -14,7 +14,7 @@ Hi, I'm **Rishit030**. This README is tuned for **open source** with a Neon visu
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Rishit030&theme=neon&mode=light" />
@@ -22,7 +22,7 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Rishit030&theme=neon&mode=light" />
