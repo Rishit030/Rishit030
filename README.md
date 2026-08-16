@@ -1,5 +1,5 @@
 # Rishit030
-Hi, I'm **Rishit030**.
+Hi, I'm **Rishit**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Rishit030&theme=neon&mode=light" />
